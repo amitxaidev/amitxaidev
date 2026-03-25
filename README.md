@@ -1,17 +1,74 @@
-# 💫 About Me:
-I'm a Full Stack Developer with 10+ years of experience turning ideas into real, scalable products — from pixel-perfect frontends to rock-solid backends. I don't just write code; I build things that matter.<br>🤖 Lately, I've gone deep into the world of AI — exploring AI/ML, Agentic AI, and autonomous systems that don't just assist, they act.<br>🤝 Looking to collaborate on — AI-powered tools & SaaS products that push boundaries.<br>🌱 Currently learning — AI/ML, Agentic AI & how to build systems that think, decide, and execute on their own.<br>💬 Ask me about — Full Stack Development, AI Integration, or Content Creation.<br>⚡ Fun fact — I built an AI team that writes code, creates content & manages tasks — completely autonomously. Yes, really.
+<h1 align="center">Amit Kumar Singh</h1>
+<h3 align="center">Senior Backend Engineer • Microservices • Distributed Systems • Event-Driven Architecture</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/crafillio) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amitxaidev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitxaidev@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
-
-### ✍️ Today's Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-informational?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/Spring-Boot-success?style=flat&logo=springboot" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-blue" />
+  <img src="https://img.shields.io/badge/Kafka-EventDriven-black?style=flat&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat&logo=docker" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raax21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Senior Backend Engineer with 10+ years of experience designing and evolving microservices-based platforms using Java and the Spring ecosystem.
+
+I specialize in distributed systems, focusing on domain-driven service decomposition, event-driven communication with Kafka, and Saga-based transaction orchestration.
+
+I design systems with clear service boundaries, explicit failure handling, and strong data consistency across distributed environments.
+
+**Core areas of focus:**
+
+- Microservices architecture & domain-driven decomposition  
+- Inter-service communication (synchronous & asynchronous)  
+- Saga-based distributed transaction management  
+- Event-driven workflows using Kafka  
+- Secure API gateway design with JWT validation  
+- Clean architecture & domain isolation  
+
+---
+
+## 🛠 Core Stack
+
+**Backend & Persistence**  
+Java 8/11/17 • JPA/Hibernate • REST APIs • MySQL • PostgreSQL • MongoDB  
+
+**Microservices Platform**  
+Spring Boot • Service Discovery • API Gateway • JWT Security • OpenAPI 3.0  
+
+**Distributed Systems**  
+Apache Kafka • Saga Pattern • Event Orchestration • Idempotent Consumers • Retry & Compensation Logic  
+
+**Dev & Deployment**  
+Docker • Kubernetes • CI/CD • Maven • Git • JUnit • Mockito  
+
+---
+
+## 🚀 Microservices Architecture Experience
+
+Designed and implemented a multi-domain microservices ecosystem with:
+
+- Independent service data ownership  
+- Clear bounded contexts  
+- API Gateway-based centralized routing  
+- Token-based authentication across services  
+- Event-driven order lifecycle management  
+- Compensating transactions for failure recovery  
+- Asynchronous state transitions with eventual consistency  
+
+The system emphasizes isolation, observability, and operational clarity in distributed environments.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amitxaidev&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=amitxaidev&theme=tokyonight" />
+</p>
+
+<sub>Building scalable microservices that remain stable under scale and failure.</sub>
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/crafillio) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amitxaidev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitxaidev@gmail.com) 
